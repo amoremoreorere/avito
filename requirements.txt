@@ -5,7 +5,7 @@ chardet==3.0.4
 cheroot==5.9.0
 CherryPy==11.1.0
 click==6.7
-Django==1.11.7
+Django==1.11.28
 flake8==3.5.0
 Flask==0.12.2
 gunicorn==19.7.1
